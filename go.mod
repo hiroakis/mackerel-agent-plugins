@@ -26,7 +26,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/hashicorp/go-version v1.2.1
 	github.com/jarcoal/httpmock v1.0.6
-	github.com/jmoiron/sqlx v1.2.0
+	github.com/jmoiron/sqlx v1.3.4
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/lestrrat-go/tcptest v0.0.0-20180223004312-f0345789c593
 	github.com/lestrrat-go/tcputil v0.0.0-20180223003554-d3c7f98154fb // indirect
@@ -43,7 +43,6 @@ require (
 	github.com/mackerelio/mackerel-plugin-gearmand v1.0.1
 	github.com/mackerelio/mackerel-plugin-json v1.1.0
 	github.com/mattn/go-pipeline v0.0.0-20190323144519-32d779b32768
-	github.com/mattn/go-sqlite3 v1.10.0 // indirect
 	github.com/mattn/go-treasuredata v0.0.0-20170920030233-31758907cfc4
 	github.com/michaelklishin/rabbit-hole v1.5.0
 	github.com/montanaflynn/stats v0.6.3
